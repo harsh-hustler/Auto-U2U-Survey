@@ -18,4 +18,4 @@ def send_email(email, height, average_height, count):
     gmail.ehlo()
     gmail.starttls()
     gmail.login(from_email, from_password)
-    gmail.send_message(msg)
+    gmail.send_message(msg
