@@ -37,7 +37,7 @@ The template structure is as follows:
     └── success.html
 ```
 
-# How to Install
+# How to Install and run
 
 ## To run on your local server
 ```
