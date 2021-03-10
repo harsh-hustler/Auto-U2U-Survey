@@ -1,4 +1,4 @@
-# Auto-U2U-Survey(### HTML, CSS, Flask, Flask-SQLAlchemy, PostgreSQL)
+# Auto-U2U-Survey(HTML, CSS, Flask, Flask-SQLAlchemy, PostgreSQL)
 
 Auto-U2U-Survey is a Web app basically created to provide automation.
 This app is made in **flask** to do survey of an attribute(in this case height) of people and sending the average of the results automatically to their email i'd.
